@@ -1,4 +1,5 @@
-##Attribute-Enhanced Interpretable Herb Prescription Generation Model on Heterogeneous Graph(AEI-HPGM)
+##AEI-HPGM:Attribute-Enhanced Interpretable Herb Prescription Generation Model on Tripartite Heterogeneous Graph
+##Bridging AI and TCM Clinics: Interpretable Herb Prescription Generation on Tripartite Heterogenous Graph
 
 ## Envirment
 
